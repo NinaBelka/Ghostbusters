@@ -434,6 +434,7 @@ body {
   -o-transform: translateY(-50%);
   z-index: 99;
   cursor: pointer;
+  outline: none;
 }
 
 @media (max-width: 1200px) {
