@@ -396,17 +396,12 @@ button:focus {
   margin-bottom: 65px;
 }
 
-.news-cards {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
 .news-card {
   background: #FFFFFF;
   border-radius: 5px;
   flex-basis: 23%;
   padding: 30px;
+  min-height: 180px;
 }
 
 .news-date {
